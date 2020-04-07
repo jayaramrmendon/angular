@@ -1,0 +1,1 @@
+ng start --open to run the app
